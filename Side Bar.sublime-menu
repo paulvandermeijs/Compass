@@ -1,0 +1,10 @@
+[
+	{"caption": "-"},
+	{
+		"caption": "Compass",
+		"children":
+		[
+			{"command": "compass_watch", "args": {"paths": []}}
+		]
+	}
+]
